@@ -40,10 +40,6 @@ The differentiator is most commonly used in wave shaping circuits to detect high
 <img width="1280" height="867" alt="image" src="https://github.com/user-attachments/assets/c724ceef-aa6c-4ce3-99f2-93ef17f7ee8c" />
 
 
-## CALCULATIONS:
-<img width="1152" height="1146" alt="image" src="https://github.com/user-attachments/assets/8dc5a533-a0e3-41a6-be5d-d6df96471026" />
-
-
 ## GRAPH:
 <img width="1017" height="1280" alt="image" src="https://github.com/user-attachments/assets/16bf1f32-901b-4901-8b57-5a54c0d1b6bc" />
 
